@@ -1,0 +1,20 @@
+body{
+    background-color: #A0522D;
+}
+header{
+    text-align: center;
+    font:normal 15pt italic;
+    color: white; /*fala sobre o cabeçalho, o titulo em cor branca, italico e centralizado*/
+}
+section{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.432);  /*diz de onde tem os paragrafos, cor branca no fundo, largura de 500px, 
+    margem automatica, bordas com tamanho de 10px e a sombra dele com a cor descrita*/
+}
+div{
+    margin-top: 8px;
+}
